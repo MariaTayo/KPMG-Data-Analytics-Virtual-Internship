@@ -2,7 +2,7 @@
 
 This project focused on analysing data sets and advising a client on customer targeting with the Data, Analytics & Modelling team. This internship provided the opportunity to step into the shoes of a KPMG team member and complete tasks that replicate the work that the Data Analytics team do every day. Key skills learned included Data Analysis, Customer Segmentation, Data Dashboards and more. 
 
-# About the Client and Business Task
+## About the Client and Business Task
 
 Sprocket Central Pty Ltd, a medium sized bikes and cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. Smith speaks about how the team can effectively analyse the datasets to help Sprocket Central Pty Ltd grow its business. Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. They are looking to expand into a new market, and we will be assisting them to recommend a suitable marketing strategy.
 
@@ -35,10 +35,10 @@ Now that the client has approved the analysis plan, we need to start building th
 
 ## Some of the business context when presenting the findings were: 
 
-•	What are the trends in the underlying data?
-•	Which customer segment has the highest customer value? 
-•	What do you propose should be Sprocket Central Pty Ltd’s marketing and growth strategy?
-•	What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products? 
+* What are the trends in the underlying data?
+* Which customer segment has the highest customer value? 
+* What do you propose should be Sprocket Central Pty Ltd’s marketing and growth strategy?
+* What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products? 
 
 ![image](https://github.com/MariaTayo/KPMG-Data-Analytics-Virtual-Internship/assets/117232459/3250d7bd-6932-4808-bbff-5cbb2a58483c)
 
