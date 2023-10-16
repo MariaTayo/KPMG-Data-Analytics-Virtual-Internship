@@ -17,7 +17,9 @@ The client provided KPMG with 3 datasets:
 # Task 1: Data Quality Assessment
 ## Assessment of data quality and completeness in preparation for analysis. 
 
-When we initially receive data sets from clients, there tends to be various issues with the dataset such as accuracy, completeness, or duplicate values. It is important that we assess the data qualities for these issues before starting any analysis. The client has asked our team to assess the quality of their data; as well as make recommendations on ways to clean the underlying data and mitigate these issues. “The importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance you will be able to use it to drive company growth.”
+When we initially receive data sets from clients, there tends to be various issues with the dataset such as accuracy, completeness, or duplicate values. It is important that we assess the data qualities for these issues before starting any analysis. The client has asked our team to assess the quality of their data; as well as make recommendations on ways to clean the underlying data and mitigate these issues.   
+
+“The importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance you will be able to use it to drive company growth.”
 
 As part of this task, I started preliminary data exploration and identified ways to improve the quality of Sprocket Central Pty Ltd's data. This was then communicated to the client by way of email. This was done using Microsoft Excel and Microsoft Word. 
 
@@ -31,7 +33,9 @@ Before I conducted the analysis, I had to create a presentation which allowed th
 # Task 3: Data Insights and Presentation
 ## Using visualisations to present insights 
 
-"Now that the client has approved the analysis plan, we need to start building the model and present our findings to the client. Visualisations like interactive dashboards help us highlight key findings and convey our ideas. A list of customers or algorithms won’t do it with the client. We need to support our results with the use of visualisations and make sure these visualisations answer the key question that the client is asking for." The task was to develop a dashboard displaying the data summary and results of the analysis which was to be presented to the client at the next meeting. In order to complete this task, I used Microsoft Power BI. 
+"Now that the client has approved the analysis plan, we need to start building the model and present our findings to the client. Visualisations like interactive dashboards help us highlight key findings and convey our ideas. A list of customers or algorithms won’t do it with the client. We need to support our results with the use of visualisations and make sure these visualisations answer the key question that the client is asking for."   
+
+The task was to develop a dashboard displaying the data summary and results of the analysis which was to be presented to the client at the next meeting. In order to complete this task, I used Microsoft Power BI. 
 
 ## Some of the questions in mind when presenting the findings were: 
 
