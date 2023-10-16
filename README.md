@@ -1,6 +1,6 @@
 # KPMG-Data-Analytics-Virtual-Internship
 
-This project focused on analysing data sets and advising a client on customer targeting with the Data, Analytics & Modelling team. This internship provided the opportunity to step into the shoes of a KPMG team member and complete tasks that replicate the work that the Data Analytics team do every day. Key skills learned included Data Analysis, Customer Segmentation, Data Dashboards and more. 
+This project focused on analysing datasets and advising a client on customer targeting with the Data, Analytics & Modelling team. This internship provided the opportunity to step into the shoes of a KPMG team member and complete tasks that replicate the work that the Data Analytics team do every day. Key skills learned included Data Analysis, Customer Segmentation, Data Dashboards and more. 
 
 ## About the Client and Business Task
 
@@ -12,28 +12,28 @@ The client provided KPMG with 3 datasets:
 
 * Customer Demographic
 * Customer Addresses
-* Transactions data in the past 3 months
+* Transactions data from the past 3 months
 
 # Task 1: Data Quality Assessment
 ## Assessment of data quality and completeness in preparation for analysis. 
 
 When we initially receive data sets from clients, there tends to be various issues with the dataset such as accuracy, completeness, or duplicate values. It is important that we assess the data qualities for these issues before starting any analysis. The client has asked our team to assess the quality of their data; as well as make recommendations on ways to clean the underlying data and mitigate these issues. “The importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance you will be able to use it to drive company growth.”
 
-As part of this task, I started preliminary data exploration and identified ways to improve the quality of Sprocket Central Pty Ltd's data. This was then communicated to the client by way of email. This was done Microsoft Excel. 
+As part of this task, I started preliminary data exploration and identified ways to improve the quality of Sprocket Central Pty Ltd's data. This was then communicated to the client by way of email. This was done using Microsoft Excel and Microsoft Word. 
 
 # Task 2: Data Insights
 ## Targeting high value customers based on customer demographics and attributes.
 
-Before we conduct the analysis, we have to create a presentation which allows the client to see our methodology and process moving forward. This is necessary as we need their approval to move on to the analysis stage. After completing the data quality assessment and cleaning the data, the next task was to create a PowerPoint presentation which outlines the approach we will be taking to identify which of the 1000 customers Sprocket Central Pty Ltd should target, based on the dataset. This included three phases: Data Exploration; Model Development and Interpretation. 
+Before I conducted the analysis, I had to create a presentation which allowed the client to see the methodology and process moving forward. This was necessary as their approval was needed to move on to the analysis stage. After completing the data quality assessment and cleaning the data, the next task was to create a PowerPoint presentation which outlined the approach to be taken to identify which of the 1000 customers Sprocket Central Pty Ltd should target, based on the dataset. This included three phases: Data Exploration; Model Development and Interpretation. 
 
-Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. 
+"Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing." 
 
 # Task 3: Data Insights and Presentation
 ## Using visualisations to present insights 
 
-Now that the client has approved the analysis plan, we need to start building the model and present our findings to the client. Visualisations like interactive dashboards help us highlight key findings and convey our ideas. A list of customers or algorithms won’t do it with the client. We need to support our results with the use of visualisations and make sure these visualisations answer the key question that the client is asking for. The task was to develop a dashboard displaying the data summary and results of the analysis that can be presented to the client at the next meeting. In order to complete this task, I used Power BI. 
+"Now that the client has approved the analysis plan, we need to start building the model and present our findings to the client. Visualisations like interactive dashboards help us highlight key findings and convey our ideas. A list of customers or algorithms won’t do it with the client. We need to support our results with the use of visualisations and make sure these visualisations answer the key question that the client is asking for." The task was to develop a dashboard displaying the data summary and results of the analysis which was to be presented to the client at the next meeting. In order to complete this task, I used Microsoft Power BI. 
 
-## Some of the business context when presenting the findings were: 
+## Some of the questions in mind when presenting the findings were: 
 
 * What are the trends in the underlying data?
 * Which customer segment has the highest customer value? 
